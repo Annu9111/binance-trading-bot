@@ -1,0 +1,3 @@
+2026-03-28 09:18:02,694 - ERROR - Order failed
+2026-03-28 09:19:55,377 - INFO - Order success: {'orderId': 13000905725, 'status': 'NEW', 'executedQty': '0.000', 'avgPrice': '0.00'}
+2026-03-28 09:21:34,512 - INFO - Order success: {'orderId': 13000908418, 'status': 'NEW', 'executedQty': '0.000', 'avgPrice': '0.00'}
